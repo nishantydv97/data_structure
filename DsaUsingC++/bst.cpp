@@ -76,6 +76,8 @@ int main(){
 	cout<<"\n";
 	b.preorder_display(root);
 	cout<<"\n";
+	b.inorder_display(root);
+	cout<<"\n";
 	return 0;
 }
 
